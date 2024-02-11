@@ -7,6 +7,6 @@ metadata:
     backstage.io/kubernetes-id: net6app
     backstage.io/kubernetes-namespace: net6app
 spec:
-  type: website
+  type: service
   owner: izasahmedl@gmail.com
   lifecycle: experimental
