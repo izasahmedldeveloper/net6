@@ -4,7 +4,7 @@ metadata:
   name: net6app
   description: An example of a net6 application.
   annotations:
-    backstage.io/kubernetes-id: net6app
+    backstage.io/kubernetes-namespace: net6app
 spec:
   type: service
   owner: izasahmedl@gmail.com
